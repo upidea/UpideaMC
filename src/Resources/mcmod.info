@@ -1,0 +1,21 @@
+{
+    "modListVersion":2,
+    "modList": [{
+        "modid": "upideaminecraft",
+        "name": "UpideaMineCraft",
+        "description": "Minecraft's mod from upidea.com, just for fun.",
+        "version": "${mod_version}",
+        "mcversion": "${minecraft_version}",
+        "url": "http://mc.upidea.com/",
+        "updateUrl": "http://mc.upidea.com/version.txt",
+        "authorList": ["bud@upidea.com"],
+        "credits": "bud@upidea.com",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": ["Forge@[10.13.4.1558,)"],
+        "parent": "",
+        "requiredMods": [  ],
+        "dependants": [  ],
+        "useDependencyInformation": "true"
+    }]
+}

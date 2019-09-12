@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: com.upidea.upideamc.UpideaMcASMLoadingPlugin
+FMLCorePluginContainsFMLMod: true
+FMLAT: upideamc_at.cfg
